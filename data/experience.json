@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Full Stack Developer – Vending Tech",
+    "date": "2025 – Present",
+    "description": "Modernization of coffee vending machines through development of a custom touchscreen interface, implementation of a custom MDB (Multi-Drop Bus) communication system, and creation of a business website. Focused on improving user experience, system reliability, and hardware–software integration."
+  },
+  {
+    "title": "3D Printing Engineer - Miniatures Forge",
+    "date": "2022 – 2024",
+    "description": "Prepared and optimized files for 3D printing, created visualizations of 3D models, and managed online stores on platforms such as Allegro and Etsy, including product listings and operations."
+  },
+
+  {
+    "title": "Computer Science (Engineering Degree) – Silesian University",
+    "date": "2022 – 2025",
+    "description": "Software Engineering Specialization. Studied C++, C#, Python, Java, SQL, and Assembly. Engineering thesis: design and implementation of a Pomodoro-based learning support application."
+  }
+]
