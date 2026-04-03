@@ -1,0 +1,12 @@
+#root {
+
+  margin: 0 auto;  /* Center the #root container */
+  padding: 0 10%;
+  
+  overflow: hidden;
+  box-sizing: border-box;
+  width: 100%;  /* Ensure it spans full width */
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}
